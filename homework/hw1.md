@@ -65,3 +65,5 @@ struct ContentView: View {
 ---
 ### 成果
 ```
+<img scr="picture/hw1_image.jpg">
+<img src="https://github.com/Bugcatlz/yzu-SwiftUI-1090728/blob/05b0ab8f6eba3cd202af6c5a249335f2ccfab1f3/IMG_1419.jpeg">
