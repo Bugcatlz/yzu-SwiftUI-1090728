@@ -96,4 +96,4 @@ extension UIScreen{
 ```
 ---
 ### 成果
-<img src = "">
+<img src = "https://github.com/Bugcatlz/yzu-SwiftUI-1090728/blob/b9dde5bd0a7d45f5aebe19bca12b56ce0d8362ea/picture/hw3_image.jpg">
