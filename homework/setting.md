@@ -1,7 +1,7 @@
 ## setting
 ---
 ### 程式碼
-```switf
+```swift
 import SwiftUI
 
 struct ContentView: View {
