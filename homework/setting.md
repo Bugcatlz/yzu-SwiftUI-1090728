@@ -68,3 +68,5 @@ struct DateView:View{
 ```
 ---
 ### 成果
+
+<img src = "https://github.com/Bugcatlz/yzu-SwiftUI-1090728/blob/d8961b45f1be9dffcf12764ba1f3cd86b030dd61/picture/setting_image.jpg">
