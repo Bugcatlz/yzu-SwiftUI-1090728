@@ -42,10 +42,12 @@ struct ContentView: View {
             
     }
 }
-```
+
+````
 
 #### WelcomeView
-```swiftUI
+
+```swift
 import SwiftUI
 
 struct WelcomeView:View{
@@ -65,10 +67,12 @@ struct WelcomeView:View{
         }.padding(.top,20)
     }
 }
+
 ```
 
 #### BookListView
-```swiftUI
+
+```swift
 import SwiftUI
 
 struct Book: Identifiable{
@@ -163,10 +167,12 @@ struct BookDetailView:View{
             })
     }
 }
+
 ```
 
 #### CardView
-```swiftUI
+
+```swift
 import SwiftUI
 
 var coldFacts = ["金庸原名是查良鏞，他的筆名「金庸」是由他的兩位朋友的名字各取一個字組成的。","金庸是位法學碩士，曾在香港大學法學院任教，但他更喜歡寫武俠小說。","他的作品中，最早發表的是《書劍恩仇錄》，而《笑傲江湖》則被視為他武俠小說創作的巔峰之作。","金庸在他的小說中經常描寫英雄人物，但他自己卻表示對於現實世界的政治不感興趣。","金庸的小說曾多次被改編成電影、電視劇和其他媒體作品，廣受歡迎。"]
@@ -200,7 +206,9 @@ struct CardView:View{
         
     }
 }
+
 ```
 ---
 ###成果
+
 [Demo影片](https://youtu.be/YyHzR8IOKWI?si=NO4Up3UwN5nPKY1N)
